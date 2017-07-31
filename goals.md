@@ -1,4 +1,4 @@
-goals and deliverables
+Goals and Deliverables
 ======================
 
 1.  Search query + results
