@@ -6,6 +6,6 @@ Project management repo for web dev project
 
 | When        | Where            | Who            |
 | ----------- | ---------------- | -------------- |
-| 14:30-17:00 | Alama Drafthouse | David, Gavriil |
-| 08:00-10:00 | Marquez Hall     | David, Kevin   |
+| 14:30-17:00 | Alama Drafthouse | @dgrisham, @gavriil |
+| 08:00-10:00 | Marquez Hall     | @dgrisham, @kdmerenda   |
 
